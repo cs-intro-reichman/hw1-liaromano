@@ -5,7 +5,7 @@ int n= Integer.parseInt(args [0]);
 int ones= n%10;
 int tens= n/10%10;
 int hundreds= n/100;
-System.out.println(hundreds+" hundreds, "+tens+" tens, and "+ ones+" ones");
+System.out.println(hundreds+" hundreds, "+tens+" tens, and "+ ones+" ones.");
 
 	}
 }
